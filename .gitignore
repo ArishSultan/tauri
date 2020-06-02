@@ -52,7 +52,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 /.vs
 .DS_Store
@@ -86,3 +85,4 @@ Cargo.lock
 
 # doing this because the task-runner (`mask prepare`) will clone gh:tauri-apps/examples
 /examples
+config.bat

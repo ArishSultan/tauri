@@ -52,7 +52,6 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
 
 /.vs
 .DS_Store
@@ -89,3 +88,4 @@ Cargo.lock
 
 # ignore frida handlers
 __handlers__/
+config.bat
